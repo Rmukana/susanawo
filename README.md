@@ -1,3 +1,9 @@
+SUSANOO
+Next-Generation Blender Add-on
+
+Formerly developed under the name SuRiZa, this project has now entered a new development phase under the name SUSANOO.
+
+The development history and previous work created under the SuRiZa name remain an important part of this project's evolution.
 
 
 
