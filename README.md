@@ -1,3 +1,7 @@
+<img width="1500" height="500" alt="頂点自動抽出検証001" src="https://github.com/user-attachments/assets/4e74c8de-1885-4ed7-9d7b-a15db7f9786b" />
+
+
+
 <details>
 <summary>⛔ [DevLog] history gemini-suriza2.95v.py</summary>
  SuRiZa Ver 1.5 - [Real Object Blade Box & Gizmo Sync System]
