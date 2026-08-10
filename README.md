@@ -376,15 +376,7 @@ The development history and previous work created under the SuRiZa name remain a
 
  <img width="1600" height="900" alt="ギットハブ" src="https://github.com/user-attachments/assets/d276c7d7-2a30-4504-9c8a-768744a836ac" />
 
-<img width="1600" height="900" alt="義っとハブ" src="https://github.com/user-attachments/assets/9f077f3d-6cbe-448a-a6e9-99b1347bbcbb" />
-
-
-**SuRiZa Cube — Experimental Prototype**
-
-
-> **SuRiZa Cube — A New Retopology Approach for Blender**
-> **A Blender Add-on for Lightweight 3D Mesh Construction**
-> Individual cubes can be snapped together and connected to build larger structures, then expanded or subdivided as needed.
+<img width="1600" height="900" alt="義っとハブ" src="https://github.com/user-attachments/assets/9f077f3d-6cbe-448a-a6e9-99b1347bbcbb" /
 
 
 
