@@ -5,7 +5,10 @@
 **[IMPORTANT] Please unzip this folder first!**
  
 *Note: After downloading, open Blender 3.3+, go to Preferences -> Add-ons -> Install, and select this ZIP file to instantly activate the official baseline system.*
+SUSANOO
+Next-Generation Blender Add-on
 
+Formerly developed under the name SuRiZa, this project has now entered a new development phase under the name SUSANOO.
 
 
 <details>
@@ -42,10 +45,7 @@
            
        
 </details>
-SUSANOO
-Next-Generation Blender Add-on
 
-Formerly developed under the name SuRiZa, this project has now entered a new development phase under the name SUSANOO.
 
 
 
