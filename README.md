@@ -5,10 +5,6 @@
 **[IMPORTANT] Please unzip this folder first!**
  
 *Note: After downloading, open Blender 3.3+, go to Preferences -> Add-ons -> Install, and select this ZIP file to instantly activate the official baseline system.*
-SUSANOO
-Next-Generation Blender Add-on
-
-Formerly developed under the name SuRiZa, this project has now entered a new development phase under the name SUSANOO.
 
 
 <details>
@@ -155,6 +151,10 @@ The free Blender add-on product "suriza" was created by mukana. To prevent user 
 
 SuRiza 開発系譜（Evolutionary History）
 
+スサノヲ
+Next-Generation Blender Add-on
+
+Formerly developed under the name SuRiZa, this project has now entered a new development phase under the name スサノヲ
 
 
 
