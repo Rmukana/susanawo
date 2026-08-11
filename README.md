@@ -37,17 +37,14 @@
         
            
             
-           
-           
-       
-</details>
+    
 
 
 
 
 
 
-<img width="1600" height="900" alt="GitHub READMEのメイン画像：1600 × 900 px" src="https://github.com/user-attachments/assets/f74119b7-c613-4afe-b81a-6c2439a2ff38
+
  
 
 
